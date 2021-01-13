@@ -28,3 +28,7 @@ This program automatically generates a piece of the mandelbrot set and applies a
 # Known Bugs
 -When Tile set below 128 the full image does not render the blur
 -If program ran multiple times, clear the generated image files and cvs files otherwise Tiled phase will not run
+
+# Learned Outcomes
+- How to perform multithreading operations through CPU and GPU
+- Enhanced knowledge on C++ libraries like AMP
